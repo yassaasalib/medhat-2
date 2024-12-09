@@ -1,0 +1,102 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Photo Gallery",
+    "booking": "Booking"
+  },
+  "hero": {
+    "title": "creating",
+    "subtitle": "feeling",
+    "description": "independent global advertising & branding agency"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional photography services tailored to your needs",
+    "learnMore": "Learn More",
+    "startingAt": "Starting at",
+    "duration": "Duration",
+    "categories": {
+      "portrait": {
+        "title": "Portrait Photography",
+        "description": "Professional portrait sessions capturing the essence and personality of individuals in stunning detail."
+      },
+      "wedding": {
+        "title": "Wedding Photography",
+        "description": "Comprehensive wedding coverage capturing every precious moment of your special day."
+      },
+      "commercial": {
+        "title": "Commercial Photography",
+        "description": "Professional commercial photography for products, brands, and marketing materials."
+      },
+      "event": {
+        "title": "Event Photography",
+        "description": "Professional coverage of corporate events, parties, and special occasions."
+      },
+      "product": {
+        "title": "Product Photography",
+        "description": "High-quality product photography for e-commerce and marketing materials."
+      },
+      "landscape": {
+        "title": "Landscape Photography",
+        "description": "Capturing the beauty of natural and urban landscapes in stunning detail."
+      },
+      "architectural": {
+        "title": "Architectural Photography",
+        "description": "Professional architectural photography for real estate, design firms, and publications."
+      }
+    }
+  },
+  "booking": {
+    "title": "Book a Session",
+    "subtitle": "Fill out the form below to request a booking",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "service": "Service Type",
+      "date": "Preferred Date",
+      "message": "Message",
+      "optional": "optional",
+      "submit": "Submit Booking",
+      "submitting": "Submitting...",
+      "success": "Thank you! Your booking request has been submitted successfully.",
+      "selectService": "Select a service",
+      "serviceTypes": {
+        "portrait": "Portrait Photography",
+        "wedding": "Wedding Photography",
+        "commercial": "Commercial Photography",
+        "event": "Event Photography",
+        "product": "Product Photography",
+        "landscape": "Landscape Photography",
+        "architectural": "Architectural Photography"
+      },
+      "placeholders": {
+        "name": "Enter your full name",
+        "email": "your@email.com",
+        "phone": "Your phone number",
+        "date": "Select a date",
+        "message": "Tell us about your project..."
+      },
+      "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "phone": "Please enter a valid phone number",
+        "date": "Please select a date"
+      }
+    }
+  },
+  "footer": {
+    "about": "About Us",
+    "description": "We are a creative photography studio dedicated to capturing life's most precious moments with artistic vision and technical excellence.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe to our newsletter for updates and special offers",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  }
+}
